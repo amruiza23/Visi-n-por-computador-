@@ -1,2 +1,2 @@
-# Visi-n-por-computador-
+#Visión_por_computador
 Ana María Ruiz 
